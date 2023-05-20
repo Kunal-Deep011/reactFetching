@@ -1,0 +1,7 @@
+.row{
+    border: 2px solid white;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    font-size: 1rem;
+}
